@@ -148,4 +148,4 @@ STATIC_URL = 'static/'
 
 # Third-party API settings
 
-FOOTBALL_API_KEY = "GsuzDtd8kFAM8555hE4kuuDcFqdOtVV3bIe4BRd4"
+FOOTBALL_API_KEY = os.environ.get('FOOTBALL_API_KEY', 'your_default_api_key_here')
