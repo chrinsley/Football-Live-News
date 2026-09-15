@@ -1,6 +1,6 @@
-# Kickoff: Live Sports Desk
+# Football Live News
 
-Kickoff is a sports news dashboard that brings football updates, transfer news, NFL news, and NBA news into one place. The project uses a React frontend and a Django REST API backend that collects data from SportDB and third-party RSS feeds.
+Football Live News is a sports news dashboard that brings football updates, transfer news, NFL news, and NBA news into one place. The project uses a React frontend and a Django REST API backend that collects data from SportDB and third-party RSS feeds.
 
 ## Problem It Solves
 
